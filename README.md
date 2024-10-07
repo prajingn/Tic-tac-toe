@@ -9,10 +9,6 @@ steps:
 
 ```bash
 git clone https://github.com/prajingn/Tic-tac-toe.git
-```
-```bash
 cd Tic-tac-toe
-```
-```bash
 python "tic-tac-toe.py"
 ```
